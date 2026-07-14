@@ -1,0 +1,51 @@
+{
+  "output_dir": "C:\\Users\\finey\\OneDrive\\Desktop\\실습폴더\\4일차\\samples\\pdf_samples\\_organized_by_topic",
+  "mode": "copy",
+  "dry_run": false,
+  "total_operations": 7,
+  "errors": [],
+  "operations": [
+    {
+      "topic": "논문_비전AI",
+      "action": "copy",
+      "src": "C:\\Users\\finey\\OneDrive\\Desktop\\실습폴더\\4일차\\samples\\pdf_samples\\NeurIPS-2023-analyzing-vision-transformers-for-image-classification-in-class-embedding-space-Paper-Conference.pdf",
+      "dst": "C:\\Users\\finey\\OneDrive\\Desktop\\실습폴더\\4일차\\samples\\pdf_samples\\_organized_by_topic\\논문_비전AI\\NeurIPS-2023-analyzing-vision-transformers-for-image-classification-in-class-embedding-space-Paper-Conference.pdf"
+    },
+    {
+      "topic": "논문_비전AI",
+      "action": "copy",
+      "src": "C:\\Users\\finey\\OneDrive\\Desktop\\실습폴더\\4일차\\samples\\pdf_samples\\data2vec.pdf",
+      "dst": "C:\\Users\\finey\\OneDrive\\Desktop\\실습폴더\\4일차\\samples\\pdf_samples\\_organized_by_topic\\논문_비전AI\\data2vec.pdf"
+    },
+    {
+      "topic": "논문_비전AI",
+      "action": "copy",
+      "src": "C:\\Users\\finey\\OneDrive\\Desktop\\실습폴더\\4일차\\samples\\pdf_samples\\supervised-contrastive-learning-Paper.pdf",
+      "dst": "C:\\Users\\finey\\OneDrive\\Desktop\\실습폴더\\4일차\\samples\\pdf_samples\\_organized_by_topic\\논문_비전AI\\supervised-contrastive-learning-Paper.pdf"
+    },
+    {
+      "topic": "기업보도자료",
+      "action": "copy",
+      "src": "C:\\Users\\finey\\OneDrive\\Desktop\\실습폴더\\4일차\\samples\\pdf_samples\\보도자료.pdf",
+      "dst": "C:\\Users\\finey\\OneDrive\\Desktop\\실습폴더\\4일차\\samples\\pdf_samples\\_organized_by_topic\\기업보도자료\\보도자료.pdf"
+    },
+    {
+      "topic": "논문_기타",
+      "action": "copy",
+      "src": "C:\\Users\\finey\\OneDrive\\Desktop\\실습폴더\\4일차\\samples\\pdf_samples\\Physics-Guided Deep Learning.pdf",
+      "dst": "C:\\Users\\finey\\OneDrive\\Desktop\\실습폴더\\4일차\\samples\\pdf_samples\\_organized_by_topic\\논문_기타\\Physics-Guided Deep Learning.pdf"
+    },
+    {
+      "topic": "논문_에이전트",
+      "action": "copy",
+      "src": "C:\\Users\\finey\\OneDrive\\Desktop\\실습폴더\\4일차\\samples\\pdf_samples\\A survey on large language model based autonomous agents.pdf",
+      "dst": "C:\\Users\\finey\\OneDrive\\Desktop\\실습폴더\\4일차\\samples\\pdf_samples\\_organized_by_topic\\논문_에이전트\\A survey on large language model based autonomous agents.pdf"
+    },
+    {
+      "topic": "학교규정",
+      "action": "copy",
+      "src": "C:\\Users\\finey\\OneDrive\\Desktop\\실습폴더\\4일차\\samples\\pdf_samples\\학칙.pdf",
+      "dst": "C:\\Users\\finey\\OneDrive\\Desktop\\실습폴더\\4일차\\samples\\pdf_samples\\_organized_by_topic\\학교규정\\학칙.pdf"
+    }
+  ]
+}
